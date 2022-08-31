@@ -35,4 +35,10 @@
     Private Sub Button9_Click(sender As Object, e As EventArgs) Handles Button9.Click
         TextResult.Text &= "9"
     End Sub
+
+    Private Sub ButtonPoint_Click(sender As Object, e As EventArgs) Handles ButtonPoint.Click
+        If InStr(TextResult.Text, ".", CompareMethod.Text) = 0 Then 'InStr devuelve un valor numerico, el valor donde esta el . en Result, si no encuentra nada devuelve 0'
+            TextResult.Text &= "." 'Si no encontro . nos va dejar poner 1 y nada mas 1'
+        End If
+    End Sub
 End Class
