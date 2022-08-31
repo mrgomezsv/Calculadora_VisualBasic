@@ -7,8 +7,8 @@
 
 
     Private Sub Button1_Click(sender As Object, e As EventArgs) Handles Button1.Click
-        Concatena()
-        TextResult.Text &= "1"
+        Concatena()   'Llamada de la funcion que concatena'
+        TextResult.Text &= "1" 'Valor del boton'
     End Sub
 
     Private Sub Button2_Click(sender As Object, e As EventArgs) Handles Button2.Click
@@ -94,6 +94,8 @@
         TextResult.Text &= "0"
     End Sub
 
+    '***********FUNCIONES*****************'
+
     Public Sub Evalua() 'Funcion Evalua'
         SeleccionOperacion = True 'Cheka que continue si se preciona un operador y da el paso para todos'
 
@@ -118,9 +120,11 @@
             VResult = Valor2 'En caso contrario el valor2 lo guarda en el resultado'
 
         End If
+
     End Sub
 
     Public Sub Concatena() 'Funcion para borrar el textbox e ingresar el segundo o mas datos para hacer la operacion'
+
         If SeleccionOperacion = True Then
             TextResult.Text = ""
             SeleccionOperacion = False
