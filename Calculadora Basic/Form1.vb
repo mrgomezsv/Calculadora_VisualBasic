@@ -1,4 +1,4 @@
-﻿Public Class Form1
+﻿Public Class Calculadora
     'Variables de la calculadora'
     Dim Operation As String 'Almacenara los caracteres de las operaciones basicas + - * /'
     Dim VResult As Nullable(Of Double) = Nothing 'Sera decimal y se declara nula si no es nula entendera que es 0 y eso afectaria una operacion'
