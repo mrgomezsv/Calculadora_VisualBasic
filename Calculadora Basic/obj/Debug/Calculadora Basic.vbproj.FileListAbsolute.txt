@@ -1,0 +1,12 @@
+D:\Desktop\Calculadora VB\Calculadora Basic\Calculadora Basic\bin\Debug\Calculadora Basic.exe.config
+D:\Desktop\Calculadora VB\Calculadora Basic\Calculadora Basic\bin\Debug\Calculadora Basic.exe
+D:\Desktop\Calculadora VB\Calculadora Basic\Calculadora Basic\bin\Debug\Calculadora Basic.pdb
+D:\Desktop\Calculadora VB\Calculadora Basic\Calculadora Basic\bin\Debug\Calculadora Basic.xml
+D:\Desktop\Calculadora VB\Calculadora Basic\Calculadora Basic\obj\Debug\Calculadora Basic.vbproj.AssemblyReference.cache
+D:\Desktop\Calculadora VB\Calculadora Basic\Calculadora Basic\obj\Debug\Calculadora_Basic.Form1.resources
+D:\Desktop\Calculadora VB\Calculadora Basic\Calculadora Basic\obj\Debug\Calculadora_Basic.Resources.resources
+D:\Desktop\Calculadora VB\Calculadora Basic\Calculadora Basic\obj\Debug\Calculadora Basic.vbproj.GenerateResource.cache
+D:\Desktop\Calculadora VB\Calculadora Basic\Calculadora Basic\obj\Debug\Calculadora Basic.vbproj.CoreCompileInputs.cache
+D:\Desktop\Calculadora VB\Calculadora Basic\Calculadora Basic\obj\Debug\Calculadora Basic.exe
+D:\Desktop\Calculadora VB\Calculadora Basic\Calculadora Basic\obj\Debug\Calculadora Basic.xml
+D:\Desktop\Calculadora VB\Calculadora Basic\Calculadora Basic\obj\Debug\Calculadora Basic.pdb
